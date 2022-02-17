@@ -1,5 +1,5 @@
-# i4ins Free TON Notifications Service
-Notifications Service for Free TON Blockchain.
+# i4ins Everscale Notifications Service
+Notifications Service for Everscale Blockchain.
 Service PROD version is already deployed here: https://ftns.freeton-stats.org/ and available via Notifications DeBot (Service ID - i4ins)
 
 ## Features  
