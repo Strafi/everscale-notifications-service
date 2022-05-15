@@ -1,13 +1,13 @@
 {
-  "name": "free-ton-notifications-service",
+  "name": "everscale-notifications-service",
   "version": "1.0.0",
-  "description": "Notifications Module for Free TON Blockchaing events",
+  "description": "Notifications Module for Everscale Blockchaing events",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Strafi/free-ton-notifications-service.git"
+    "url": "git+https://github.com/Strafi/everscale-notifications-service.git"
   },
   "keywords": [
-    "Free TON",
+    "Everscale",
     "Blockchain",
     "Notifications",
     "Service"
@@ -66,7 +66,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Strafi/free-ton-notifications-service/issues"
+    "url": "https://github.com/Strafi/everscale-notifications-service/issues"
   },
-  "homepage": "https://github.com/Strafi/free-ton-notifications-service#readme"
+  "homepage": "https://github.com/Strafi/everscale-notifications-service#readme"
 }

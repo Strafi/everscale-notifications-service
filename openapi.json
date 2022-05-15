@@ -1,9 +1,9 @@
 {
   "openapi": "3.0.1",
   "info": {
-    "title": "Free TON Notifications service (i4ins)",
+    "title": "Everscale Notifications service (i4ins)",
     "version": "1.0.0",
-    "description": "Free TON Notifications service endpoints",
+    "description": "Everscale Notifications service endpoints",
     "contact": {
       "email": "anton.solodkof@gmail.com",
       "name": "Anton Solodkov"
@@ -182,7 +182,7 @@
           "name": {
             "type": "string",
             "description": "Service name",
-            "example": "Free TON Notifications Service"
+            "example": "Everscale Notifications Service"
           },
           "id": {
             "type": "string",
@@ -192,12 +192,12 @@
           "description": {
             "type": "string",
             "description": "Service description",
-            "example": "Notifications Module for Free TON Blockchaing events"
+            "example": "Notifications Module for Everscale Blockchaing events"
           },
           "source": {
             "type": "string",
             "description": "Service source code on github",
-            "example": "https://github.com/Strafi/free-ton-notifications-service"
+            "example": "https://github.com/Strafi/everscale-notifications-service"
           },
           "surf": {
             "type": "string",

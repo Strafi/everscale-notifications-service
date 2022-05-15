@@ -1,5 +1,5 @@
-# i4ins Free TON Notifications Service
-Notifications Service for Free TON Blockchain.
+# i4ins Everscale Notifications Service
+Notifications Service for Everscale Blockchain.
 Service PROD version is already deployed here: https://ftns.freeton-stats.org/ and available via Notifications DeBot (Service ID - i4ins)
 
 ## Features  
@@ -17,14 +17,14 @@ Service PROD version is already deployed here: https://ftns.freeton-stats.org/ a
 Api documention and schemas are provided here (openapi): https://ftns.freeton-stats.org/docs/api  
 ## II. Testing
 Solution has a Demo server for testing purposes  
-Please, follow the guide in the repository: https://github.com/Strafi/free-ton-notifications-service-demo
+Please, follow the guide in the repository: https://github.com/Strafi/everscale-notifications-service-demo
 
 ## III. Installation
 
 #### 1. Clone this repo
 
 ```
-$ git clone git@github.com:Strafi/free-ton-notifications-service.git i4ins
+$ git clone git@github.com:Strafi/everscale-notifications-service.git i4ins
 $ cd i4ins
 ```
 
